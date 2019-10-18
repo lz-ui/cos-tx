@@ -1,13 +1,16 @@
 {
   "name": "@lz-ui/cos-tx",
   "version": "0.1.0",
+  "author": "lz-ui@jczxw.cn",
   "description": "@lz-ui/cos-tx 基于腾讯cos封装上传方法",
   "main": "src/index.js",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "publish": "npm publish --access=public"
   },
   "files": [
-    "dist"
+    "src"
   ],
   "repository": {
     "type": "git",
@@ -17,8 +20,6 @@
     "cos",
     "cdn"
   ],
-  "author": "lz-ui@jczxw.cn",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/lz-ui/cos-tx/issues"
   },
