@@ -83,5 +83,7 @@ class LzCos{
 }
 
 
+module.exports = LzCos
+
 
 
